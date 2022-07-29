@@ -13,3 +13,19 @@ The data set that we were provided, like stated above, was missing some key valu
 
 **Results**
 
+*Histogram of total weight of items*
+
+![](histogram.png)
+
+According to the image above, this histogram shows the minimum and maximum weight of the provided items in the dataset. More items have a weight between ~11-12 lbs.
+
+
+*Correlation heatmap of provided data*
+
+![](heatmap.png)
+
+The above heatmap shows the correlation between all the provided data and their counterparts. There is a moderate correlation between Item MRP and Item Outlet Sales.
+
+**Model**
+
+Based on the models that we have ran, we would recommend using the our Regression Tree model. The regression tree model, although takes a little longer to get to our desired outcome, provides us with more accurate values when presenting to our clientele.
