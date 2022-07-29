@@ -1,2 +1,6 @@
-# sales-predictions
-Coding Dojo Project on Sales Predictions for food items sold at various stores
+# Sales Predictions for Outlets
+Model creation to provide predictions and data visualizations of food item sales per outlet.
+
+Author: Christopher Puccetti
+
+**Business Problem:**
