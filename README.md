@@ -1,4 +1,4 @@
-# Manufacturers Sales Predctions
+# Manufacturers Outlet Sales Predctions
 
 *Model creation to provide predictions and data visualizations of item sales per Manufacturers Outlet.*
 
