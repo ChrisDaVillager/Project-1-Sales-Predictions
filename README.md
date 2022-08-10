@@ -1,6 +1,6 @@
 # Manufacturers Sales Predctions
 
-*Model creation to provide predictions and data visualizations of food item sales per outlet.*
+*Model creation to provide predictions and data visualizations of item sales per Manufacturers Outlet.*
 
 Author: **Christopher Puccetti**
 
