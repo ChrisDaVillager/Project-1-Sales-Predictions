@@ -1,11 +1,12 @@
-# Sales Predictions for Outlets
-Model creation to provide predictions and data visualizations of food item sales per outlet.
+# Manufacturers Sales Predctions
 
-Author: Christopher Puccetti
+*Model creation to provide predictions and data visualizations of food item sales per outlet.*
+
+Author: **Christopher Puccetti**
 
 **Business Problem:**
 
-Being provided with the data, we ahd to cleanse the data thas was given to be able to make better predictions.
+Being provided with the data, we had to clean up unecessary data to provide our clientele with proper data visualizations and accurate sales predictions so our clientele can understand how their items will sell.
 
 **Methods**
 
@@ -29,3 +30,18 @@ The above heatmap shows the correlation between all the provided data and their 
 **Model**
 
 Based on the models that we have ran, we would recommend using the our Regression Tree model. The regression tree model, although takes a little longer to get to our desired outcome, provides us with more accurate values when presenting to our clientele.
+
+**Recommendations**
+
+
+
+**Limitations & Next Steps**
+
+Data provided is somewhat scarce, having more values in the dataset could result in improved predictions. Having this information provided could give Manufacturers a better grasp how well their items sell in their outlets. To move forward, we could contact clients and dive deeper and work together to achieve better results. 
+
+**Contact Information**
+
+Additional questions, reach me at:
+* E-mail: villager.2855@gmail.com
+* LinkedIn: linkedin.com/in/chris-puccetti
+
